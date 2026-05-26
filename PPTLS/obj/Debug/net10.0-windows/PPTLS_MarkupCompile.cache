@@ -1,5 +1,5 @@
 ﻿PPTLS
-
+1.0.0.0
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_O
 C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-spock\PPTLS\App.xaml
 11407045341
 
-4-1404133226
+14-760082438
 206-796764840
 MainWindow.xaml;
 
-False
+True
 
