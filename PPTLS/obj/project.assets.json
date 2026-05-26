@@ -8,19 +8,19 @@
     "net10.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\camil\\.nuget\\packages\\": {}
+    "C:\\Users\\Ponch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camil\\PROGRA\\Proyecto-final---Piedra-papel-tijera-lagarto-spock\\PPTLS\\PPTLS.csproj",
+      "projectUniqueName": "C:\\Users\\Ponch\\Documents\\CETYS\\POO\\Proyecto-final---Piedra-papel-tijera-lagarto-spock\\PPTLS\\PPTLS.csproj",
       "projectName": "PPTLS",
-      "projectPath": "C:\\Users\\camil\\PROGRA\\Proyecto-final---Piedra-papel-tijera-lagarto-spock\\PPTLS\\PPTLS.csproj",
-      "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camil\\PROGRA\\Proyecto-final---Piedra-papel-tijera-lagarto-spock\\PPTLS\\obj\\",
+      "projectPath": "C:\\Users\\Ponch\\Documents\\CETYS\\POO\\Proyecto-final---Piedra-papel-tijera-lagarto-spock\\PPTLS\\PPTLS.csproj",
+      "packagesPath": "C:\\Users\\Ponch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ponch\\Documents\\CETYS\\POO\\Proyecto-final---Piedra-papel-tijera-lagarto-spock\\PPTLS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ponch\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0-windows"
