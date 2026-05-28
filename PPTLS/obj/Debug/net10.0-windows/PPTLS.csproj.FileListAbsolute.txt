@@ -6,7 +6,6 @@ C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-
 C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-spock\PPTLS\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-spock\PPTLS\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-spock\PPTLS\obj\Debug\net10.0-windows\PPTLS_MarkupCompile.cache
-C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-spock\PPTLS\obj\Debug\net10.0-windows\PPTLS_MarkupCompile.lref
 C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-spock\PPTLS\obj\Debug\net10.0-windows\MainWindow.baml
 C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-spock\PPTLS\obj\Debug\net10.0-windows\PPTLS.g.resources
 C:\Users\Ponch\Documents\CETYS\POO\Proyecto-final---Piedra-papel-tijera-lagarto-spock\PPTLS\obj\Debug\net10.0-windows\PPTLS.GeneratedMSBuildEditorConfig.editorconfig
