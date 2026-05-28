@@ -8,17 +8,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-<ItemGroup>
-  <Resource Include="Images\Piedra.png"/>
-  <Resource Include="Images\Papel.png"/>
-  <Resource Include="Images\Tijera.png"/>
-  <Resource Include="Images\Lagarto.png"/>
-  <Resource Include="Images\Spock.png"/>
-  <Resource Include="Sounds\FAHH.wav"/>
-  <Resource Include="Sounds\Lizzard.wav"/>
-  <Resource Include="Sounds\Paper.wav"/>
-  <Resource Include="Sounds\Rock.wav"/>
-  <Resource Include="Sounds\Scissors.wav"/>
-</ItemGroup>
-
 </Project>
