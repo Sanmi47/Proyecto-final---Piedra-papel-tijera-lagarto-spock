@@ -1,18 +1,23 @@
-﻿using System.Windows;
-using PPTLS.Models;
-using PPTLS.Strategies;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
 namespace PPTLS;
-public partial class MainWindow : Window{
-    private Juego juego;
-    public MainWindow(){
+
+/// <summary>
+/// Interaction logic for MainWindow.xaml
+/// </summary>
+public partial class MainWindow : Window
+{
+    public MainWindow()
+    {
         InitializeComponent();
-        juego = new Juego();
-    }
-    private void BtnPiedra_Click(object sender, RoutedEventArgs e){
-        //ACCIÓN
-    }
-    //AGREGAR LAS DEMÁS REGLAS
-    private void Jugar(IJugada jugada){
-        txtResultado.Text = juego.Jugar(jugada);
     }
 }
