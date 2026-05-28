@@ -24,18 +24,19 @@ public class Juego{
     public string Jugar(IJugada jugadaHumana){
         JugadorHumano.ElegirJugada(jugadaHumana);
         //AQUÍ FALTA ALGO
+        IJugada jugadaCPU = ObtenerJugadaAleatoria();
+        
         string resultado = jugadaHumana.ResolverContra(jugadaCPU);
         ActualizarMarcador(resultado);
-        return
-        $"Jugador eligio: {jugadaHumana.Nombre}
-        " +
-        $"CPU eligio: {jugadaCPU.Nombre}
-        " +
-        $"{resultado}
-        }
-        private IJugada ObtenerJugadaAleatoria(){
-            int indice = random.Next(jugadas.Count);
-            return jugadas[indice];
-        }
+        return $"Jugador eligio: {jugadaHumana.Nombre}" + $"\nCPU eligio: {jugadaCPU.Nombre}" + $"\n{resultado}";
     }
+    private IJugada ObtenerJugadaAleatoria(){
+        int indice = random.Next(jugadas.Count);
+        return jugadas[indice];
+    }
+
+    public string ActualizarMarcador(string resultado){
+        return resultado;
+    }
+
 }
