@@ -13,9 +13,11 @@ IJugada Jugada;
         InitializeComponent();
         juego = new Juego();
     }
+    
+    //El jugador escoge la jugada con los botones en el viewport
     private void BtnPiedra_Click(object sender, RoutedEventArgs e){
         Jugada = new Piedra();
-        MessageBox.Show(juego.Jugar(Jugada));
+        MessageBox.Show(juego.Jugar(Jugada));  
     }
     private void BtnPapel_Click(object sender, RoutedEventArgs e){
         Jugada = new Papel();
